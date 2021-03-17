@@ -1,3 +1,4 @@
+# question 2
 def grocery():
     while True:  
         try:
